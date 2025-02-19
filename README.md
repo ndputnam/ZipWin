@@ -1,0 +1,3 @@
+Application to extract .zip files or compress files to .zip.
+Does not force advirtizements on your computer like some similar products...
+Future improvements will include and installer and incorporate itself into you Windows environment.
