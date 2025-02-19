@@ -1,4 +1,4 @@
-from sys import argv
+from sys import argv, exit
 from PyQt6.QtWidgets import QApplication
 from resources.zipper import Zippy
 
